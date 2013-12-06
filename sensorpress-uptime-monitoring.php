@@ -1,24 +1,17 @@
 <?php
 /**
- * @package   SensorPress
- * @author    josh@brewlabs.us
- * @license   GPL-2.0+
- * @link      http://example.com
- * @copyright 2013 BrewLabs
- *
- * @wordpress-plugin
- * Plugin Name:       SensorPress
- * Plugin URI:        http://sensorpress.com
- * Description:       The Internet is always on. Is your website?
- * Version:           1.0.0
- * Author:            SensorPress
- * Author URI:        http://sensorpress.com
- * Text Domain:       sensorpress-locale
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Domain Path:       /languages
- * GitHub Plugin URI: https://github.com/brewlabs/sensorpress
- */
+* Plugin Name:       SensorPress
+* Plugin URI:        http://sensorpress.com
+* Description:       The Internet is always on. Is your website?
+* Version:           1.0.0
+* Author:            SensorPress
+* Author URI:        http://sensorpress.com
+* Text Domain:       sensorpress-locale
+* License:           GPL-2.0+
+* License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+* Domain Path:       /languages
+* GitHub Plugin URI: https://github.com/brewlabs/sensorpress
+*/
 
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
