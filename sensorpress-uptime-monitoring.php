@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:       SensorPress
-version:           1.0.0
+Version:           1.0
 Plugin URI:        http://sensorpress.com
 Description:       The Internet is always on. Is your website?
 Author:            SensorPress
